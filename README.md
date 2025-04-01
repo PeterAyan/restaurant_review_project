@@ -2,8 +2,15 @@
 ![](restaurant_image.PNG)
 
 #### Project Overview
-The Restaurant Review Sentiment Analysis project utilizes natural language processing techniques and machine learning algorithms to automatically process customer reviews and determine their sentiment polarity. The system is trained on a collected dataset of restaurant reviews and provides real-time feedback through a user-friendly GUI interface.
+The Restaurant Review Sentiment Analysis project utilizes natural language processing techniques and machine learning algorithms to automatically process customer reviews and determine their sentiment polarity. The system is trained on a collected dataset of restaurant reviews and provides real-time feedback through a user-friendly GUI interface. This was a team project that followed Agile SDLC Methodology.
 
+#### Project Team Members
+    - [Peter Ayanrinno](https://github.com/PeterAyan/)
+    - [Ebere Onwuamoke](https://github.com/bibiglorious)
+    - John Oluwoyeye
+    - Uche Okocha
+    - [Chinonso Uche](https://github.com/angelnonso/)
+    
 #### Problem Statement
 Restaurants often struggle to efficiently analyze customer feedback, leading to a lack of real-time insights into customer sentiments. This hinders their ability to promptly address concerns, improve services, and maintain customer loyalty.
 
@@ -72,5 +79,10 @@ The logistic regression algorithm, trained on a comprehensive dataset of restaur
 
 With this sentiment analysis system, restaurants can proactively monitor customer feedback, identify areas for improvement, and take timely actions to enhance customer satisfaction and loyalty. By harnessing the power of sentiment analysis, restaurants can gain a competitive edge and drive their business growth in the dynamic and challenging food service industry.
 
-Thanks for reading! You can find me on [linkedin](https://www.linkedin.com/in/peter-ayanrinno-73171022a)
+Thanks for reading! You can find us on LinkedIn;\
+Peter - [Linkedin](https://www.linkedin.com/in/peter-ayanrinno-73171022a)\
+Ebere - [LinkedIn](https://www.linkedin.com/in/ebere-onwuamaoke/)\
+John - LinkedIn (link unavailable)\
+Uche - LinkedIn (link unavailable)\
+Chinonso - [LinkedIn](https://www.linkedin.com/in/angelnonso/)
 
